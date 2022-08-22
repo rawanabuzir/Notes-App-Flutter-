@@ -1,4 +1,4 @@
-# gjntjkbfgjknc
+# notes app
 
 A new Flutter project.
 
